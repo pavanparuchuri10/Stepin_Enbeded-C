@@ -6,3 +6,7 @@
 |code inspector|
 |:--:
 |[![code inspector badge](https://www.code-inspector.com/project/29008/score/svg)|
+
+|code grade|
+|:--:|
+|[![code grade](https://www.code-inspector.com/project/29008/status/svg)
